@@ -1,0 +1,11 @@
+/Include/
+/Lib/
+/Scripts/
+/.idea
+/pyvenv.cfg
+*.h5
+*.stl
+*.pyc
+*.mhd
+*.raw
+*.json
