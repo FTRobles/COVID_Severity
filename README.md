@@ -27,6 +27,10 @@ The develop of this tool was made on [Anaconda](https://www.anaconda.com), so is
 |SimpleITK|1.2.4|
 |Tensorflow|2.1.0|
 |Keras|2.3.1|
+|SKImage|0.17.2|
+|Open-CV|4.1.2.30|
+|Scipy|1.3.1|
+|Matplotlib|3.2.1|
 
 __NOTE: Use python 3.7 or below__
 
@@ -45,10 +49,16 @@ pip install pydicom==1.3.0
 pip install pillow==7.0.0
 pip install vtk==9.0.1
 pip install SimpleITK
+pip install Scikit-Image==0.17.2
+pip intall opencv-python==4.1.2.30
+pip install Matplotlib
+pip install Scipy==1.3.1
 conda install tensorflow==2.1.0
-comda install Keras==2.3.1 
+conda install Keras==2.3.1 
 ~~~
 
+If you have any doubts, comments or want access to the DL and Mesh models please contact 
+fabian_torres@cvicom.unam.mx
 
 
 
