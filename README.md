@@ -2,7 +2,7 @@ COVID severity score assessment using deep learning
 
 # COVID 3D severity
 
-This system has the basic user interface to assisst medical staff in computing of severity scrore of COVID-19 patiens using 3D-CT.
+This system has the basic user interface to assisst medical staff in computing of severity score of COVID-19 patiens using 3D-CT.
 
 Implemented Tools:
 
